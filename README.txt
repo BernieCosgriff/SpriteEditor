@@ -1,1 +1,1 @@
-Polito will compile and run on Windows, Linux, and Mac. Our repository is located at https://github.com/University-of-Utah-CS3505/cs3505-a7-sprite-editor-the-unescaped-characters
+Polito will compile and run on Windows, Linux, and Mac.
